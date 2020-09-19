@@ -1,5 +1,10 @@
-### Hi there 👋
 
+## Vincent Lim 👋
+- 📫 Reach me at: v40450@gmail.com
+- 🌱 [Codecademy](https://www.codecademy.com/profiles/v40450)
+- 🔭 [SoloLearn](https://www.sololearn.com/Profile/19714925)
+- 🔭 [freeCodeCamp](https://www.freecodecamp.org/v40450)
+-  😄 [Codewars](https://www.codewars.com/users/v40450)
 <!--
 **v40450/v40450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
