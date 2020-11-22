@@ -1,5 +1,6 @@
 
 ## Vincent Lim 👋
+- Web: [Vincent Lim](https://v40450.github.io/)
 - 📫 Reach me at: v40450@gmail.com
 - 🌱 [Codecademy](https://www.codecademy.com/profiles/v40450)
 - 🔭 [SoloLearn](https://www.sololearn.com/Profile/19714925)
